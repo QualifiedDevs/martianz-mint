@@ -68,7 +68,7 @@ header .logo {
 
 .social-icon {
   width: 2em;
-  margin: 0 .25em;
+  margin: 0 .5em;
 }
 
 .logo {
@@ -78,8 +78,8 @@ header .logo {
   margin-bottom: 2rem;
 }
 
-.mockups-gif {
-  width: 200px;
+.mockups {
+  width: min(200px, 80%);
   margin-bottom: 2rem;
 }
 
