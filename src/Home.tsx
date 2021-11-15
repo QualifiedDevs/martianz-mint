@@ -272,8 +272,8 @@ const Home = (props: HomeProps) => {
       <Logo />
       <img src="mockups.gif" alt="mockups gif" className="mockups" />
       <div className="collection-desc">
-        <p>
-          3333 unique Martianz NFTs, ready to inhibit the Solana Blockchain.
+        <p style={{fontWeight: "bold"}}>
+          3333 unique Martianz NFTs, ready to inhabit the Solana Blockchain.
         </p>
         <p>
           Martianz will strive to grow within this space as we land on our new
